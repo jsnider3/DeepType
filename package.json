@@ -12,7 +12,8 @@
     "postinstall": "node tools/vendor.mjs && node tools/build-pack.mjs",
     "test": "vitest run",
     "test:watch": "vitest",
-    "build-pack": "node tools/build-pack.mjs"
+    "build-pack": "node tools/build-pack.mjs",
+    "deploy": "npm run build && node tools/deploy-pages.mjs"
   },
   "dependencies": {
     "chiptune3": "^0.8.9",

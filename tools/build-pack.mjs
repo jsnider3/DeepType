@@ -16,11 +16,22 @@ import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { Resvg } from '@resvg/resvg-js';
 import opentype from 'opentype.js';
+import sharp from 'sharp';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PACK = path.join(ROOT, 'packs', 'remastered');
 const OUT = path.join(ROOT, 'public', 'assets', 'remastered');
 const SCALE = 2;
+// Images ship as WebP (about a fifth the size of PNG): lossy for art, lossless for the
+// bitmap-font atlases so glyph edges stay exact.
+const IMAGE_EXT = 'webp';
+
+/** Write one built image (PNG buffer in) as the pack's image format. */
+async function writeImage(name, png, { lossless = false } = {}) {
+  const out = await sharp(png).webp(lossless ? { lossless: true, effort: 4 } : { quality: 90, alphaQuality: 95, effort: 4 }).toBuffer();
+  writeFileSync(path.join(OUT, 'images', `${name}.${IMAGE_EXT}`), out);
+  if (name === 'favicon') writeFileSync(path.join(OUT, 'favicon.png'), png); // browsers' tab icon
+}
 
 const args = process.argv.slice(2);
 const opt = (k) => {
@@ -104,7 +115,7 @@ async function buildImages() {
         const img = await raster[name]();
         if (img.w !== w * RS || img.h !== h * RS) errors.push(`${name}: raster is ${img.w}x${img.h}, spec x${RS} is ${w * RS}x${h * RS}`);
         else {
-          if (!reportOnly) writeFileSync(path.join(imgDir, `${name}.png`), await encodePng(img));
+          if (!reportOnly) await writeImage(name, await encodePng(img));
           rasterCount++;
           continue;
         }
@@ -127,7 +138,7 @@ async function buildImages() {
       missing.push(name);
       svgText = placeholder(name, w, h);
     }
-    if (!reportOnly) writeFileSync(path.join(imgDir, `${name}.png`), render(svgText, w));
+    if (!reportOnly) await writeImage(name, render(svgText, w));
   }
   return { count: names.length, rasterCount, missing, errors, sizes: Object.fromEntries(Object.entries(spec).map(([n, v]) => [n, [v.w, v.h]])) };
 }
@@ -180,7 +191,7 @@ function buildFont(name, { file, pt }) {
   }
   const W = Math.max(1, x);
   const svgText = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${lineH}" viewBox="0 0 ${W} ${lineH}">${paths}</svg>`;
-  writeFileSync(path.join(OUT, 'images', `${name}.png`), render(svgText, W));
+  return writeImage(name, render(svgText, W), { lossless: true }).then(() => {
   const q = (c) => (c === "'" ? `"'"` : c === '\\' ? `'\\\\'` : `'${c}'`);
   const desc = [
     `// ${name}: generated from ${file} by tools/build-pack.mjs`,
@@ -198,6 +209,7 @@ function buildFont(name, { file, pt }) {
     '',
   ].join('\n');
   writeFileSync(path.join(OUT, 'data', `${name}.txt`), desc);
+  });
   return [W, lineH];
 }
 
@@ -255,17 +267,16 @@ async function writeManifest() {
   const list = (d, ext) => (existsSync(path.join(OUT, d)) ? readdirSync(path.join(OUT, d)).filter((f) => f.endsWith(ext)).map((f) => f.slice(0, -ext.length)).sort() : []);
   const sizes = Object.fromEntries(Object.entries(spec).map(([n, v]) => [n, [v.w, v.h]]));
   for (const name of Object.keys(FONT_MAP)) {
-    const p = path.join(OUT, 'images', `${name}.png`);
+    const p = path.join(OUT, 'images', `${name}.${IMAGE_EXT}`);
     if (existsSync(p)) {
-      const b = readFileSync(p);
-      sizes[name] = [b.readUInt32BE(16) / SCALE, b.readUInt32BE(20) / SCALE];
+      const { width, height } = await sharp(p).metadata();
+      sizes[name] = [width / SCALE, height / SCALE];
     }
   }
-  const favicon = path.join(OUT, 'images', 'favicon.png');
-  if (existsSync(favicon)) copyFileSync(favicon, path.join(OUT, 'favicon.png'));
   const manifest = {
     pack: 'remastered',
     scale: SCALE,
+    imageExt: IMAGE_EXT,
     images: sizes,
     sounds: list('sounds', '.wav'),
     soundExt: 'wav',
@@ -290,7 +301,7 @@ async function main() {
   mkdirSync(path.join(OUT, 'images'), { recursive: true });
   if (audioOnly || dataOnly) {
     if (dataOnly) {
-      for (const [name, cfg] of Object.entries(FONT_MAP)) buildFont(name, cfg);
+      for (const [name, cfg] of Object.entries(FONT_MAP)) await buildFont(name, cfg);
       copyData();
       console.log('data and fonts rebuilt');
     }
@@ -312,7 +323,7 @@ async function main() {
     if (img.errors.length) console.error(img.errors.join('\n'));
     return;
   }
-  for (const [name, cfg] of Object.entries(FONT_MAP)) buildFont(name, cfg);
+  for (const [name, cfg] of Object.entries(FONT_MAP)) await buildFont(name, cfg);
   copyData();
   await buildAudio();
   const manifest = await writeManifest();

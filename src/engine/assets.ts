@@ -13,6 +13,8 @@ import { Assets, Rectangle, Texture } from 'pixi.js';
 export interface Manifest {
   pack?: string;
   scale: number;
+  /** Image file extension (default png). */
+  imageExt?: string;
   images: Record<string, [number, number]>;
   sounds: string[];
   /** Sound file extension (the original pack ships .ogg). */
@@ -120,7 +122,7 @@ function entryFor(name: string) {
   const { pack, m } = sourceFor((x) => x.images[name] !== undefined);
   return {
     alias: name,
-    src: `${BASE}${pack}/images/${name}.png`,
+    src: `${BASE}${pack}/images/${name}.${m.imageExt ?? 'png'}`,
     data: { resolution: m.scale, scaleMode: 'linear' as const },
   };
 }

@@ -5,12 +5,17 @@ reach you, zap piranhas, fight bosses and salvage sunken treasure. Built with Ty
 PixiJS. It's a fan remake inspired by PopCap's *Typer Shark! Deluxe* (2004), with its own
 art, music, sounds, word lists and text.
 
+**Play it in your browser: https://jsnider3.github.io/DeepType/**
+
 ## Setup
 
 ```bash
 npm install      # also builds the asset pack into public/assets/remastered
 npm run dev      # then open http://localhost:5173
 ```
+
+Pushing to `main` builds the game and publishes it to GitHub Pages
+(`.github/workflows/pages.yml`).
 
 `npm run build-pack` rebuilds the pack after editing `packs/remastered/` (a full build takes
 about 30 s; `-- --only name1,name2` builds single images, `-- --report` lists gaps).

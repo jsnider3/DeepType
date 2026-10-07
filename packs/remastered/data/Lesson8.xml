@@ -1,0 +1,46 @@
+<LESSON>
+
+<HEADINGS>
+	<1>The question mark is Shift plus slash. Try it:</1>
+	<2>Now the slash itself, with your right pinky.</2>
+	<3>Next, the hyphen, up beside the zero key.</3>
+	<4>Combine all three in these sentences.</4>
+</HEADINGS>
+
+<DESCRIPTION>This lesson covers the question mark, the slash and the hyphen. All three are typed with your right pinky finger.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>Who? What? When? Where? Why? How?</TEXT>
+<TEXT>Is it deep? Is it dark? Is it cold?</TEXT>
+<TEXT>Did you see that fin? Was it a shark?</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>/// /// a/b c/d up/down in/out yes/no</TEXT>
+<TEXT>port/starboard fore/aft bow/stern</TEXT>
+<TEXT>air/water day/night sink/swim north/south</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>--- --- sea-dog sea-green well-known</TEXT>
+<TEXT>deep-sea long-lost half-full ice-cold</TEXT>
+<TEXT>a two-man sub, a ten-foot eel, a wave-top</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>Is the air gauge half-full or empty?</TEXT>
+<TEXT>Up/down? Left/right? Which way-out is it?</TEXT>
+<TEXT>Can a sea-horse swim fast? Not really.</TEXT>
+<TEXT>Who left the wet-suit in the boat/dock?</TEXT>
+</TASK>
+
+</LESSON>

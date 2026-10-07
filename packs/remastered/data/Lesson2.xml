@@ -1,0 +1,46 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Your index fingers stretch inward. Type G with the left:</1>
+	<2>Now stretch your right index finger to H.</2>
+	<3>Mix G and H with the rest of the home row.</3>
+	<4>Try some real words using every home key.</4>
+</HEADINGS>
+
+<DESCRIPTION>This lesson adds the G and H keys. Reach for them with your index fingers and then snap back to F and J. Those two keys have small bumps so you can find them without looking.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>fff ggg fff ggg fgf gfg fgf gfg fg gf fg</TEXT>
+<TEXT>gag gag sag sag fag fag lag lag gag lag</TEXT>
+<TEXT>gal gal gas gas gaff gaff sag gag lag gal</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>jjj hhh jjj hhh jhj hjh jhj hjh jh hj jh</TEXT>
+<TEXT>has has had had ash ash dash dash hash</TEXT>
+<TEXT>half half shall shall hall hall hash had</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>gh gh hg hg ghg hgh fgh jhg fghj jhgf gh</TEXT>
+<TEXT>flag flag shag shag hag hag gash gash</TEXT>
+<TEXT>glad glad flash flash slash slash gall</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>a glad lad has a flag; a hall has glass;</TEXT>
+<TEXT>dash; ask dad; shall hal flash flags;</TEXT>
+<TEXT>flash a flag; half a salad; a lass has</TEXT>
+<TEXT>gall; gash; hash; shall; glass; flags;</TEXT>
+</TASK>
+
+</LESSON>

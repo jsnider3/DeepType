@@ -1,0 +1,45 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Let's practice some less common symbols. Start here:</1>
+	<2>Now brackets and braces.</2>
+	<3>Next: colons, semicolons and quotes.</3>
+	<4>Finally, mix all the symbols together.</4>
+</HEADINGS>
+
+<DESCRIPTION>This lesson covers the symbols programmers and writers love: tilde, backquote, underscore, plus, equals, brackets, braces, backslash, bar, angle brackets, colons and quotes.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>~~~ ``` ___ +++ === ~` _+ =_ +~ `= ~_+=</TEXT>
+<TEXT>a+b=c 2+2=4 x_y ~home `tick` sea_level</TEXT>
+<TEXT>5+3=8 depth_max = 300 ~approx 1+1=2</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>[[[ ]]] {{{ }}} [] {} [a] {b} [1] {2}</TEXT>
+<TEXT>&lt;&lt;&lt; &gt;&gt;&gt; &lt;a&gt; &lt;b&gt; 3&lt;4 9&gt;2 \\\ ||| a|b c\d</TEXT>
+<TEXT>{ fish: [cod, eel] } &lt;reef&gt; | path\to\map</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>;;; ::: ''' &quot;&quot;&quot; a; b: c' &quot;d&quot; ;: :; '&quot;</TEXT>
+<TEXT>Note: the &quot;Black Pearl&quot; isn't for sale;</TEXT>
+<TEXT>Rule: don't swim alone; 'buddy' up: &quot;ok&quot;!</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>if (air &lt; 20) { surface(); } else { dive; }</TEXT>
+<TEXT>map[&quot;reef&quot;] = {depth: 40, sharks: ~3};</TEXT>
+<TEXT>`a_b` | &lt;x&gt; + [y] = {z} \ ~ 'q' : &quot;w&quot; ;</TEXT>
+</TASK>
+
+</LESSON>

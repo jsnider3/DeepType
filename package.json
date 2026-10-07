@@ -1,0 +1,31 @@
+{
+  "name": "deep-type",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "import-assets": "python3 tools/import_assets.py",
+    "dev": "vite",
+    "build": "node tools/build-pack.mjs && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "postinstall": "node tools/vendor.mjs && node tools/build-pack.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build-pack": "node tools/build-pack.mjs"
+  },
+  "dependencies": {
+    "chiptune3": "^0.8.9",
+    "pixi.js": "^8.22.0"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "@types/node": "^26.6.4",
+    "jsdom": "^29.1.1",
+    "opentype.js": "^2.0.0",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.2",
+    "vitest": "^5.0.3"
+  }
+}

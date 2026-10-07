@@ -1,0 +1,40 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Final exam: 35 WPM with 95% accuracy. Ready?</1>
+	<2>Excellent. Stay sharp and keep moving.</2>
+	<3>Last passage. Bring it home, captain!</3>
+</HEADINGS>
+
+<DESCRIPTION>This is the final lesson. You need 35 adjusted words per minute and 95% accuracy to pass. Master it and you are ready for the deepest, darkest waters.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>35</MinWPM>
+<MinAccuracy>95</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>At the bottom of the trench, past the last</TEXT>
+<TEXT>glow of daylight, strange lanterns drift by.</TEXT>
+<TEXT>They belong to deep-sea fish, who use their</TEXT>
+<TEXT>lights to lure in curious little prey.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>Here the water is near freezing and the</TEXT>
+<TEXT>weight of the ocean presses on every side.</TEXT>
+<TEXT>Only the sturdiest submarines can survive,</TEXT>
+<TEXT>with thick hulls and tiny round windows.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>Yet even down here, life finds a way. Tube</TEXT>
+<TEXT>worms sway beside warm vents, crabs scuttle</TEXT>
+<TEXT>over black rock, and somewhere in the dark</TEXT>
+<TEXT>a legendary treasure waits for its finder.</TEXT>
+</TASK>
+
+</LESSON>

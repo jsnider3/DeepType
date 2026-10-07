@@ -1,0 +1,38 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Reach up to the number row. Start with 1 to 5:</1>
+	<2>Now the right side: 6 to 0.</2>
+	<3>Mix numbers and words together.</3>
+</HEADINGS>
+
+<DESCRIPTION>This lesson teaches the number keys on the top of the keyboard. Each finger reaches straight up from its top-row key.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>111 222 333 444 555 111 222 333 444 555</TEXT>
+<TEXT>12 23 34 45 51 123 234 345 451 512 135</TEXT>
+<TEXT>1 2 3 4 5 54321 12345 31524 42135 25413</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>666 777 888 999 000 666 777 888 999 000</TEXT>
+<TEXT>67 78 89 90 06 678 789 890 906 067 680</TEXT>
+<TEXT>6 7 8 9 0 09876 67890 86970 79068 90786</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>We dove 30 feet, then 60, then 120 feet.</TEXT>
+<TEXT>The map shows 4 ships and 17 sunken boats.</TEXT>
+<TEXT>Day 1: 25 crabs. Day 2: 38 crabs. Day 3: 9.</TEXT>
+<TEXT>In 1859 the brig sank with 240 tons aboard.</TEXT>
+</TASK>
+
+</LESSON>

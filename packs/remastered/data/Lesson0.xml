@@ -1,0 +1,33 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Type the passage below as quickly and accurately as you can:</1>
+	<2>Well done! Keep going all the way to the end.</2>
+</HEADINGS>
+
+<DESCRIPTION>This short test measures your typing speed and accuracy, so we can recommend a difficulty level for your dive. To skip it and go straight to the lessons, press the &quot;Next Lesson&quot; button.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>Far beyond the last lighthouse lies a stretch</TEXT>
+<TEXT>of sea that sailors only whisper about. Its</TEXT>
+<TEXT>currents are cold and quick, and fog rolls in</TEXT>
+<TEXT>without warning. Many proud ships have sailed</TEXT>
+<TEXT>into that grey water and never come home.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>Deep below, their cargo still waits in the</TEXT>
+<TEXT>sand: chests of coins, crowns and bright gems.</TEXT>
+<TEXT>Brave divers go looking for it every summer,</TEXT>
+<TEXT>but hungry sharks patrol the reefs. Only quick</TEXT>
+<TEXT>fingers and a cool head will bring you back!</TEXT>
+</TASK>
+
+</LESSON>

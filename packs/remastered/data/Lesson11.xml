@@ -1,0 +1,45 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Shift and the number keys make symbols. Start with ! @ #:</1>
+	<2>Now $ % ^ on the left side.</2>
+	<3>Next, &amp; * ( ) on the right side.</3>
+	<4>Use them all together.</4>
+</HEADINGS>
+
+<DESCRIPTION>This lesson covers the special characters above the number keys. Hold Shift with one pinky while the other hand presses the number key.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>!!! @@@ ### !!! @@@ ### !@# #@! !@# #@!</TEXT>
+<TEXT>Wow! Help! Go! cove@sea #1 #22 #300 @ 5</TEXT>
+<TEXT>!@ @# #! !# @! #@ !!@@## ##@@!! @#! !#@</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>$$$ %%% ^^^ $$$ %%% ^^^ $%^ ^%$ $%^ ^%$</TEXT>
+<TEXT>$5 $10 $250 50% 75% 100% 2^3 4^2 $9 9%</TEXT>
+<TEXT>The pearl cost $40, a 20% bargain!</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>&amp;&amp;&amp; *** ((( ))) &amp;&amp;&amp; *** ((( ))) &amp;*() )(*&amp;</TEXT>
+<TEXT>salt &amp; pepper, rock &amp; roll, *star*, (aha)</TEXT>
+<TEXT>(1) crab (2) clam (3) eel &amp; *one* squid</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>!@#$%^&amp;*() )(*&amp;^%$#@! !@#$% ^&amp;*() !@#$%</TEXT>
+<TEXT>Gems: 4 rubies (@ $90) &amp; 2 opals (@ $60)!</TEXT>
+<TEXT>Air at 85%! Depth #3 (of 5) &amp; *no* sharks!</TEXT>
+</TASK>
+
+</LESSON>

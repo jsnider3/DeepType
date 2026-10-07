@@ -1,0 +1,46 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Drop down to the bottom row. Begin with V and B:</1>
+	<2>Now try N and M with your right index finger.</2>
+	<3>Next, the outer keys: Z X C and comma, period.</3>
+	<4>Use every row together in short phrases.</4>
+</HEADINGS>
+
+<DESCRIPTION>The bottom row holds Z X C V B N M and the comma and period keys. Reach down from the home row and come right back up after each key.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>fvf fvf vvv vvv fbf fbf bbb bbb fvf fbf</TEXT>
+<TEXT>vast vast verb verb brave brave above</TEXT>
+<TEXT>bay bay boat boat bubble bubble vivid</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>jnj jnj nnn nnn jmj jmj mmm mmm jnj jmj</TEXT>
+<TEXT>man man moon moon nine nine many many</TEXT>
+<TEXT>mermaid mermaid minnow minnow lemon</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>aza aza sxs sxs dcd dcd k,k k,k l.l l.l</TEXT>
+<TEXT>zap zap box box cat cat zoom zoom wax</TEXT>
+<TEXT>crab, cove, coral. fox, zinc, maze. calm.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>many brave crabs swim near the cove.</TEXT>
+<TEXT>an old map, a box of coins, a zinc cup.</TEXT>
+<TEXT>bubbles rise, calm waves move, men row.</TEXT>
+<TEXT>a vexed lobster nibbles on a clam.</TEXT>
+</TASK>
+
+</LESSON>

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+# Built and imported asset packs: remastered is built by tools/build-pack.mjs; original holds
+# assets imported from your own copy of the original game and must never be committed
+public/assets/*
+decomp/
+.import-cache/
+__pycache__/
+public/vendor/
+.art-cache/

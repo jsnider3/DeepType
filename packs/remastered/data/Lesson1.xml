@@ -1,0 +1,55 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Rest your fingers on the home row and type the A and S keys:</1>
+	<2>Nice! Now add the D and F keys.</2>
+	<3>Great. Switch to your right hand: J and K.</3>
+	<4>Now reach for L and the semicolon.</4>
+	<5>Put both hands together on the home row.</5>
+</HEADINGS>
+
+<DESCRIPTION>The home row is where your fingers live. Left hand fingers rest on A S D F, right hand fingers rest on J K L and the semicolon. Your thumbs float over the space bar.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>aaa sss aaa sss aaa sss aaa sss aaa sss</TEXT>
+<TEXT>as as as as sa sa sa sa as as sa sa</TEXT>
+<TEXT>aas ssa aas ssa asa sas asa sas aaa sss</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>ddd fff ddd fff ddd fff ddd fff ddd fff</TEXT>
+<TEXT>asdf asdf asdf fdsa fdsa fdsa asdf fdsa</TEXT>
+<TEXT>dad dad fad fad sad sad add add dad fad</TEXT>
+<TEXT>a fad; a dad; a sad fad; add a fad;</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>jjj kkk jjj kkk jjj kkk jjj kkk jjj kkk</TEXT>
+<TEXT>jk jk jk kj kj kj jjk kkj jkj kjk jk kj</TEXT>
+<TEXT>jak jak kaj kaj jak kaj jak kaj jak kaj</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>lll ;;; lll ;;; lll ;;; lll ;;; lll ;;;</TEXT>
+<TEXT>jkl; jkl; jkl; ;lkj ;lkj ;lkj jkl; ;lkj</TEXT>
+<TEXT>lad; lad; lass; lass; all; all; lads;</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>5</HEADING>
+<TEXT>asdf jkl; asdf jkl; fdsa ;lkj fdsa ;lkj</TEXT>
+<TEXT>a lad; a lass; all lads; all lass; ask</TEXT>
+<TEXT>dad falls; a sad lad; flasks; salad; ask</TEXT>
+<TEXT>alfalfa; a fall salad; ask a lad; all ads</TEXT>
+</TASK>
+
+</LESSON>

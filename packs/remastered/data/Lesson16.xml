@@ -1,0 +1,40 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Reach 30 WPM with 90% accuracy. Begin:</1>
+	<2>Good pace. Keep those fingers moving.</2>
+	<3>Almost there. Finish fast and clean!</3>
+</HEADINGS>
+
+<DESCRIPTION>To pass this lesson you need at least 30 adjusted words per minute and 90% accuracy. Keep a quick, even rhythm and avoid going back to look at your hands.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>30</MinWPM>
+<MinAccuracy>90</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>The tide rolled in as the moon rose high</TEXT>
+<TEXT>over the bay. Small boats bobbed at their</TEXT>
+<TEXT>moorings and gulls settled on the rocks.</TEXT>
+<TEXT>A soft wind carried the smell of salt.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>Out past the reef, a whale broke the water</TEXT>
+<TEXT>and blew a tall spout into the night air.</TEXT>
+<TEXT>Its tail rose up, dripping silver light,</TEXT>
+<TEXT>then slipped below with hardly a splash.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>On shore, the divers checked their tanks</TEXT>
+<TEXT>and masks for the morning trip. Each one</TEXT>
+<TEXT>dreamed of gold coins, old cannons and a</TEXT>
+<TEXT>captain's lost compass in the deep sand.</TEXT>
+</TASK>
+
+</LESSON>

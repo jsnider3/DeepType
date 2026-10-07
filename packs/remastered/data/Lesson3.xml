@@ -1,0 +1,46 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Reach up with your left hand. Start with E and R:</1>
+	<2>Now try T with your left index finger.</2>
+	<3>Next, W and Q for the ring finger and pinky.</3>
+	<4>Mix the new keys with the home row in words.</4>
+</HEADINGS>
+
+<DESCRIPTION>Your left hand now climbs to the top row. Reach up from the home row for Q W E R T, then return to A S D F after every key.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>ded ded eee eee ded frf frf rrr rrr frf</TEXT>
+<TEXT>red red read read rear rear dear dear</TEXT>
+<TEXT>sea sea seas seas jeer jeer here here</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>ftf ftf ttt ttt ftf tft tft ftf ttt tft</TEXT>
+<TEXT>tea tea tear tear rest rest test test</TEXT>
+<TEXT>treat treat street street greet greet</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>sws sws www www aqa aqa qqq qqq sws aqa</TEXT>
+<TEXT>wade wade water water waste waste wet</TEXT>
+<TEXT>qat qat qats qats qwert qwert qa qa aqa</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>a great wet seashell; three red rafts;</TEXT>
+<TEXT>the sea was wet; we drag a raft at sea;</TEXT>
+<TEXT>the dark sea; fresh water; grease tar;</TEXT>
+<TEXT>a qat tree; a deer drew wet wreaths;</TEXT>
+</TASK>
+
+</LESSON>

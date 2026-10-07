@@ -1,0 +1,38 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Let's review the whole alphabet. Type:</1>
+	<2>Great work! Now some longer words.</2>
+	<3>Excellent. Finish with whole sentences.</3>
+</HEADINGS>
+
+<DESCRIPTION>This lesson reviews every letter of the alphabet. Keep your eyes on the screen, not on your fingers, and let each finger return to the home row.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>abc def ghi jkl mno pqr stu vwx yz</TEXT>
+<TEXT>zyx wvu tsr qpo nml kji hgf edc ba</TEXT>
+<TEXT>aqz swx dec frv tgb yhn ujm ik, ol. p;</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>jellyfish quickly vanish below the waves</TEXT>
+<TEXT>dozens of zebra fish explore the wreck</TEXT>
+<TEXT>kelp jungle, quartz sand, waxy seaweed</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>a lazy walrus jumped over the boxy kayak</TEXT>
+<TEXT>five quiet whales gave chase to my boat</TEXT>
+<TEXT>the jolly skipper mixed a fizzy drink</TEXT>
+<TEXT>squid zoom by, waving long black arms</TEXT>
+</TASK>
+
+</LESSON>

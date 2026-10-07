@@ -1,0 +1,1260 @@
+{
+ "abyss_boss": {
+  "w": 288,
+  "h": 337,
+  "group": "Bosses & projectiles"
+ },
+ "airgauge": {
+  "w": 290,
+  "h": 29,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "barandlogo": {
+  "w": 514,
+  "h": 126,
+  "group": "Menus, dialogs, widgets"
+ },
+ "bonus_creature_death": {
+  "w": 800,
+  "h": 100,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish",
+  "frames": "8 x 100x100 (H)"
+ },
+ "bonus_creature_swim": {
+  "w": 1600,
+  "h": 80,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish",
+  "frames": "20 x 80x80 (H)"
+ },
+ "boss_galleon": {
+  "w": 159,
+  "h": 349,
+  "group": "Bosses & projectiles"
+ },
+ "boss_galleon_death": {
+  "w": 159,
+  "h": 349,
+  "group": "Bosses & projectiles"
+ },
+ "boss_mecha": {
+  "w": 184,
+  "h": 217,
+  "group": "Bosses & projectiles"
+ },
+ "boss_mecha_death": {
+  "w": 230,
+  "h": 216,
+  "group": "Bosses & projectiles"
+ },
+ "boss_mecha_fin": {
+  "w": 390,
+  "h": 98,
+  "group": "Bosses & projectiles",
+  "frames": "10 x 39x98 (H)"
+ },
+ "boss_meter": {
+  "w": 380,
+  "h": 40,
+  "group": "Bosses & projectiles"
+ },
+ "boss_meter_fill": {
+  "w": 294,
+  "h": 20,
+  "group": "Bosses & projectiles"
+ },
+ "boss_squid": {
+  "w": 218,
+  "h": 147,
+  "group": "Bosses & projectiles"
+ },
+ "boss_squid_death": {
+  "w": 268,
+  "h": 123,
+  "group": "Bosses & projectiles"
+ },
+ "boss_squid_eye": {
+  "w": 60,
+  "h": 12,
+  "group": "Bosses & projectiles",
+  "frames": "5 x 12x12 (H)"
+ },
+ "boss_squid_fin": {
+  "w": 670,
+  "h": 47,
+  "group": "Bosses & projectiles",
+  "frames": "10 x 67x47 (H)"
+ },
+ "bubble1": {
+  "w": 5,
+  "h": 5,
+  "group": "Diver & effects"
+ },
+ "bubble2": {
+  "w": 7,
+  "h": 7,
+  "group": "Diver & effects"
+ },
+ "bubble3": {
+  "w": 9,
+  "h": 9,
+  "group": "Diver & effects"
+ },
+ "button_abyss_down": {
+  "w": 310,
+  "h": 101,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_abyss_over": {
+  "w": 310,
+  "h": 101,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_adventure_down": {
+  "w": 310,
+  "h": 101,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_adventure_over": {
+  "w": 310,
+  "h": 101,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_hall_down": {
+  "w": 204,
+  "h": 42,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_hall_over": {
+  "w": 204,
+  "h": 42,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_options_down": {
+  "w": 204,
+  "h": 41,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_options_over": {
+  "w": 204,
+  "h": 41,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_quit_down": {
+  "w": 98,
+  "h": 83,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_quit_over": {
+  "w": 98,
+  "h": 83,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_tutor_down": {
+  "w": 310,
+  "h": 101,
+  "group": "Menus, dialogs, widgets"
+ },
+ "button_tutor_over": {
+  "w": 310,
+  "h": 101,
+  "group": "Menus, dialogs, widgets"
+ },
+ "cannonball": {
+  "w": 74,
+  "h": 528,
+  "group": "Bosses & projectiles",
+  "frames": "12 x 74x44 (V)"
+ },
+ "cannonball_turn": {
+  "w": 74,
+  "h": 220,
+  "group": "Bosses & projectiles",
+  "frames": "5 x 74x44 (V)"
+ },
+ "checked": {
+  "w": 48,
+  "h": 25,
+  "group": "Menus, dialogs, widgets",
+  "frames": "2 x 24x25 (H)"
+ },
+ "clams": {
+  "w": 500,
+  "h": 200,
+  "group": "Shipwreck / treasure / secret level",
+  "frames": "40 x 50x50 (grid 10x4)"
+ },
+ "coralshelf": {
+  "w": 396,
+  "h": 259,
+  "group": "Playfield backgrounds"
+ },
+ "cursor1": {
+  "w": 54,
+  "h": 54,
+  "group": "Menus, dialogs, widgets"
+ },
+ "dbutton": {
+  "w": 115,
+  "h": 32,
+  "group": "Menus, dialogs, widgets"
+ },
+ "dbutton_hilight": {
+  "w": 115,
+  "h": 32,
+  "group": "Menus, dialogs, widgets"
+ },
+ "dialog": {
+  "w": 360,
+  "h": 360,
+  "group": "Menus, dialogs, widgets"
+ },
+ "diver_beaten": {
+  "w": 50,
+  "h": 84,
+  "group": "Diver & effects"
+ },
+ "diver_idle": {
+  "w": 400,
+  "h": 84,
+  "group": "Diver & effects",
+  "frames": "8 x 50x84 (H)"
+ },
+ "editbox": {
+  "w": 96,
+  "h": 32,
+  "group": "Menus, dialogs, widgets"
+ },
+ "empwave": {
+  "w": 209,
+  "h": 480,
+  "group": "Diver & effects"
+ },
+ "favicon": {
+  "w": 64,
+  "h": 64,
+  "group": "Menus, dialogs, widgets"
+ },
+ "finger0": {
+  "w": 64,
+  "h": 60,
+  "group": "Typing tutor"
+ },
+ "finger0x": {
+  "w": 64,
+  "h": 60,
+  "group": "Typing tutor"
+ },
+ "finger1": {
+  "w": 75,
+  "h": 67,
+  "group": "Typing tutor"
+ },
+ "finger1x": {
+  "w": 75,
+  "h": 67,
+  "group": "Typing tutor"
+ },
+ "finger2": {
+  "w": 85,
+  "h": 66,
+  "group": "Typing tutor"
+ },
+ "finger2x": {
+  "w": 85,
+  "h": 66,
+  "group": "Typing tutor"
+ },
+ "finger3": {
+  "w": 75,
+  "h": 94,
+  "group": "Typing tutor"
+ },
+ "finger3x": {
+  "w": 75,
+  "h": 94,
+  "group": "Typing tutor"
+ },
+ "finger4": {
+  "w": 52,
+  "h": 50,
+  "group": "Typing tutor"
+ },
+ "finger4x": {
+  "w": 52,
+  "h": 50,
+  "group": "Typing tutor"
+ },
+ "finger5": {
+  "w": 79,
+  "h": 95,
+  "group": "Typing tutor"
+ },
+ "finger5x": {
+  "w": 79,
+  "h": 95,
+  "group": "Typing tutor"
+ },
+ "finger6": {
+  "w": 93,
+  "h": 70,
+  "group": "Typing tutor"
+ },
+ "finger6x": {
+  "w": 93,
+  "h": 70,
+  "group": "Typing tutor"
+ },
+ "finger7": {
+  "w": 83,
+  "h": 74,
+  "group": "Typing tutor"
+ },
+ "finger7x": {
+  "w": 83,
+  "h": 74,
+  "group": "Typing tutor"
+ },
+ "finger8": {
+  "w": 70,
+  "h": 65,
+  "group": "Typing tutor"
+ },
+ "finger8x": {
+  "w": 70,
+  "h": 65,
+  "group": "Typing tutor"
+ },
+ "galleon_rudder": {
+  "w": 105,
+  "h": 47,
+  "group": "Bosses & projectiles",
+  "frames": "5 x 21x47 (H)"
+ },
+ "gameselector": {
+  "w": 640,
+  "h": 480,
+  "group": "Menus, dialogs, widgets"
+ },
+ "gem_green": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "gem_orange": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "gem_purple": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "gem_red": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "gem_white": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "gem_yellow": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "glo_0": {
+  "w": 25,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_1": {
+  "w": 28,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_2": {
+  "w": 26,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_3": {
+  "w": 24,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_4": {
+  "w": 25,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_5": {
+  "w": 25,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_6": {
+  "w": 25,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_7": {
+  "w": 22,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_8": {
+  "w": 24,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_9": {
+  "w": 24,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_a": {
+  "w": 29,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_apostrophe": {
+  "w": 29,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_b": {
+  "w": 25,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_back": {
+  "w": 39,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_backslash": {
+  "w": 27,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_c": {
+  "w": 28,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_caps": {
+  "w": 49,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_colon": {
+  "w": 29,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_comma": {
+  "w": 27,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_d": {
+  "w": 26,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_e": {
+  "w": 24,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_enter": {
+  "w": 36,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_f": {
+  "w": 26,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_forslash": {
+  "w": 29,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_g": {
+  "w": 25,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_h": {
+  "w": 25,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_hyphen": {
+  "w": 27,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_i": {
+  "w": 24,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_j": {
+  "w": 26,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_k": {
+  "w": 26,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_l": {
+  "w": 28,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_lalt": {
+  "w": 41,
+  "h": 24,
+  "group": "Typing tutor"
+ },
+ "glo_lbrace": {
+  "w": 28,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_lctrl": {
+  "w": 41,
+  "h": 24,
+  "group": "Typing tutor"
+ },
+ "glo_lshift": {
+  "w": 61,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_m": {
+  "w": 27,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_n": {
+  "w": 25,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_o": {
+  "w": 24,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_p": {
+  "w": 27,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_period": {
+  "w": 29,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_plus": {
+  "w": 25,
+  "h": 21,
+  "group": "Typing tutor"
+ },
+ "glo_q": {
+  "w": 28,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_r": {
+  "w": 24,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_ralt": {
+  "w": 40,
+  "h": 24,
+  "group": "Typing tutor"
+ },
+ "glo_rbrace": {
+  "w": 27,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_rctrl": {
+  "w": 40,
+  "h": 24,
+  "group": "Typing tutor"
+ },
+ "glo_rshift": {
+  "w": 50,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_s": {
+  "w": 29,
+  "h": 23,
+  "group": "Typing tutor"
+ },
+ "glo_space": {
+  "w": 217,
+  "h": 24,
+  "group": "Typing tutor"
+ },
+ "glo_t": {
+  "w": 24,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_tab": {
+  "w": 35,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_tilde": {
+  "w": 29,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_u": {
+  "w": 24,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_v": {
+  "w": 28,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_w": {
+  "w": 28,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_x": {
+  "w": 28,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_y": {
+  "w": 24,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glo_z": {
+  "w": 28,
+  "h": 22,
+  "group": "Typing tutor"
+ },
+ "glowring": {
+  "w": 58,
+  "h": 58,
+  "group": "Diver & effects"
+ },
+ "goldbar": {
+  "w": 370,
+  "h": 76,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "gumbo_die": {
+  "w": 600,
+  "h": 60,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish",
+  "frames": "10 x 60x60 (H)"
+ },
+ "gumbo_shock": {
+  "w": 60,
+  "h": 60,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish"
+ },
+ "gumbo_swim": {
+  "w": 1200,
+  "h": 60,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish",
+  "frames": "20 x 60x60 (H)"
+ },
+ "hands": {
+  "w": 443,
+  "h": 101,
+  "group": "Typing tutor",
+  "frames": "2 (H?)"
+ },
+ "high_score_bg": {
+  "w": 640,
+  "h": 480,
+  "group": "Menus, dialogs, widgets"
+ },
+ "mapbg": {
+  "w": 700,
+  "h": 540,
+  "group": "Map screen"
+ },
+ "mapchest_a": {
+  "w": 48,
+  "h": 35,
+  "group": "Map screen"
+ },
+ "mapchest_a_open": {
+  "w": 48,
+  "h": 35,
+  "group": "Map screen"
+ },
+ "mapchest_b": {
+  "w": 48,
+  "h": 35,
+  "group": "Map screen"
+ },
+ "mapchest_b_open": {
+  "w": 48,
+  "h": 35,
+  "group": "Map screen"
+ },
+ "mapchest_c": {
+  "w": 48,
+  "h": 35,
+  "group": "Map screen"
+ },
+ "mapchest_c_open": {
+  "w": 48,
+  "h": 35,
+  "group": "Map screen"
+ },
+ "mapscreen_arch": {
+  "w": 79,
+  "h": 91,
+  "group": "Map screen"
+ },
+ "mapship": {
+  "w": 26,
+  "h": 22,
+  "group": "Map screen"
+ },
+ "mapshipcolor": {
+  "w": 300,
+  "h": 45,
+  "group": "Map screen",
+  "frames": "6 x 50x45 (H)"
+ },
+ "medal_bronze": {
+  "w": 97,
+  "h": 133,
+  "group": "Menus, dialogs, widgets"
+ },
+ "medal_gold": {
+  "w": 97,
+  "h": 133,
+  "group": "Menus, dialogs, widgets"
+ },
+ "medal_silver": {
+  "w": 97,
+  "h": 133,
+  "group": "Menus, dialogs, widgets"
+ },
+ "mountain1": {
+  "w": 640,
+  "h": 200,
+  "group": "Playfield backgrounds"
+ },
+ "mountain2": {
+  "w": 640,
+  "h": 200,
+  "group": "Playfield backgrounds"
+ },
+ "mountain3": {
+  "w": 640,
+  "h": 200,
+  "group": "Playfield backgrounds"
+ },
+ "oceanfloor": {
+  "w": 690,
+  "h": 300,
+  "group": "Playfield backgrounds"
+ },
+ "piranha_basic_death": {
+  "w": 600,
+  "h": 60,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish",
+  "frames": "10 x 60x60 (H)"
+ },
+ "piranha_basic_swim": {
+  "w": 1200,
+  "h": 60,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish",
+  "frames": "20 x 60x60 (H)"
+ },
+ "piranha_white_death": {
+  "w": 600,
+  "h": 60,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish",
+  "frames": "10 x 60x60 (H)"
+ },
+ "piranha_white_swim": {
+  "w": 1200,
+  "h": 60,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish",
+  "frames": "20 x 60x60 (H)"
+ },
+ "piranhashock": {
+  "w": 60,
+  "h": 60,
+  "group": "Piranhas, deep-sea fish (gumbo), jellyfish"
+ },
+ "point": {
+  "w": 10,
+  "h": 10,
+  "group": "Map screen"
+ },
+ "point_green": {
+  "w": 10,
+  "h": 10,
+  "group": "Map screen"
+ },
+ "pointer2": {
+  "w": 58,
+  "h": 58,
+  "group": "Map screen"
+ },
+ "rotor_torpedo": {
+  "w": 154,
+  "h": 41,
+  "group": "Bosses & projectiles",
+  "frames": "14 x 11x41 (H)"
+ },
+ "rumblecloud": {
+  "w": 875,
+  "h": 125,
+  "group": "Diver & effects",
+  "frames": "7 x 125x125 (H)"
+ },
+ "sand": {
+  "w": 690,
+  "h": 300,
+  "group": "Playfield backgrounds"
+ },
+ "secret_crown": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "secret_crown_lrg": {
+  "w": 81,
+  "h": 72,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "secret_figurine": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "secret_figurine_lrg": {
+  "w": 56,
+  "h": 91,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "secret_necklace": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "secret_necklace_lrg": {
+  "w": 48,
+  "h": 86,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "secret_scepter": {
+  "w": 41,
+  "h": 41,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "secret_scepter_lrg": {
+  "w": 85,
+  "h": 90,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "shark_basic_death": {
+  "w": 960,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "6 x 160x70 (H)"
+ },
+ "shark_basic_swim": {
+  "w": 3200,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "20 x 160x70 (H)"
+ },
+ "shark_black_death": {
+  "w": 960,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "6 x 160x70 (H)"
+ },
+ "shark_black_shock": {
+  "w": 160,
+  "h": 70,
+  "group": "Sharks"
+ },
+ "shark_black_swim": {
+  "w": 3200,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "20 x 160x70 (H)"
+ },
+ "shark_ghost_death": {
+  "w": 960,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "6 x 160x70 (H)"
+ },
+ "shark_ghost_glow_death": {
+  "w": 1080,
+  "h": 90,
+  "group": "Sharks",
+  "frames": "6 x 180x90 (H)"
+ },
+ "shark_ghost_glow_swim": {
+  "w": 3600,
+  "h": 90,
+  "group": "Sharks",
+  "frames": "20 x 180x90 (H)"
+ },
+ "shark_ghost_swim": {
+  "w": 3200,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "20 x 160x70 (H)"
+ },
+ "shark_red_death": {
+  "w": 960,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "6 x 160x70 (H)"
+ },
+ "shark_red_shock": {
+  "w": 160,
+  "h": 70,
+  "group": "Sharks"
+ },
+ "shark_red_swim": {
+  "w": 3200,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "20 x 160x70 (H)"
+ },
+ "sharkshock": {
+  "w": 160,
+  "h": 70,
+  "group": "Sharks"
+ },
+ "shipwreckbonus": {
+  "w": 392,
+  "h": 39,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "slider": {
+  "w": 172,
+  "h": 10,
+  "group": "Menus, dialogs, widgets"
+ },
+ "slideranchor": {
+  "w": 20,
+  "h": 20,
+  "group": "Menus, dialogs, widgets"
+ },
+ "smallgoldfish": {
+  "w": 400,
+  "h": 20,
+  "group": "Playfield backgrounds",
+  "frames": "20 x 20x20 (H)"
+ },
+ "sonar_bg": {
+  "w": 364,
+  "h": 364,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep2_0": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep2_1": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep2_2": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep2_3": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep2_4": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep_0": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep_1": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep_2": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep_3": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sonar_sweep_4": {
+  "w": 155,
+  "h": 155,
+  "group": "Sonar (purpose unconfirmed)"
+ },
+ "sparkle_large": {
+  "w": 560,
+  "h": 40,
+  "group": "Shipwreck / treasure / secret level",
+  "frames": "14 x 40x40 (H)"
+ },
+ "statusbarX": {
+  "w": 640,
+  "h": 39,
+  "group": "HUD / status bar"
+ },
+ "statusbarX_options_down": {
+  "w": 81,
+  "h": 30,
+  "group": "HUD / status bar"
+ },
+ "statusbarX_options_over": {
+  "w": 81,
+  "h": 30,
+  "group": "HUD / status bar"
+ },
+ "statusbarX_pause_down": {
+  "w": 82,
+  "h": 30,
+  "group": "HUD / status bar"
+ },
+ "statusbarX_pause_over": {
+  "w": 82,
+  "h": 30,
+  "group": "HUD / status bar"
+ },
+ "statusbarX_quit_down": {
+  "w": 81,
+  "h": 30,
+  "group": "HUD / status bar"
+ },
+ "statusbarX_quit_over": {
+  "w": 81,
+  "h": 30,
+  "group": "HUD / status bar"
+ },
+ "statusbarmeter": {
+  "w": 228,
+  "h": 22,
+  "group": "HUD / status bar"
+ },
+ "tab_button": {
+  "w": 121,
+  "h": 37,
+  "group": "Menus, dialogs, widgets"
+ },
+ "tab_panel": {
+  "w": 637,
+  "h": 429,
+  "group": "Menus, dialogs, widgets"
+ },
+ "tab_panel_question": {
+  "w": 17,
+  "h": 29,
+  "group": "Menus, dialogs, widgets"
+ },
+ "tab_panel_treasure": {
+  "w": 208,
+  "h": 344,
+  "group": "Shipwreck / treasure / secret level"
+ },
+ "tab_panel_white": {
+  "w": 377,
+  "h": 316,
+  "group": "Menus, dialogs, widgets"
+ },
+ "tab_radiobtn_active": {
+  "w": 169,
+  "h": 36,
+  "group": "Menus, dialogs, widgets"
+ },
+ "tab_radiobtn_inactive": {
+  "w": 169,
+  "h": 36,
+  "group": "Menus, dialogs, widgets"
+ },
+ "tab_top": {
+  "w": 162,
+  "h": 38,
+  "group": "Menus, dialogs, widgets"
+ },
+ "tab_top_shadow": {
+  "w": 162,
+  "h": 38,
+  "group": "Menus, dialogs, widgets"
+ },
+ "textovers": {
+  "w": 400,
+  "h": 120,
+  "group": "HUD / status bar",
+  "frames": "2 x 400x60 (V)"
+ },
+ "title_continue": {
+  "w": 235,
+  "h": 28,
+  "group": "Menus, dialogs, widgets"
+ },
+ "title_continue_over": {
+  "w": 235,
+  "h": 28,
+  "group": "Menus, dialogs, widgets"
+ },
+ "titlescreen": {
+  "w": 640,
+  "h": 480,
+  "group": "Menus, dialogs, widgets"
+ },
+ "topbackground": {
+  "w": 640,
+  "h": 119,
+  "group": "Playfield backgrounds"
+ },
+ "topbackground_iceberg": {
+  "w": 640,
+  "h": 119,
+  "group": "Playfield backgrounds"
+ },
+ "topbackground_lighthouse": {
+  "w": 640,
+  "h": 119,
+  "group": "Playfield backgrounds"
+ },
+ "topbackground_shipwreck": {
+  "w": 640,
+  "h": 119,
+  "group": "Playfield backgrounds"
+ },
+ "topbackground_storm": {
+  "w": 640,
+  "h": 119,
+  "group": "Playfield backgrounds"
+ },
+ "topbackground_volcano": {
+  "w": 640,
+  "h": 119,
+  "group": "Playfield backgrounds"
+ },
+ "torpedo_boss_bobbing": {
+  "w": 250,
+  "h": 155,
+  "group": "Bosses & projectiles"
+ },
+ "torpedo_boss_dying": {
+  "w": 250,
+  "h": 155,
+  "group": "Bosses & projectiles"
+ },
+ "torpedo_boss_rotor": {
+  "w": 308,
+  "h": 81,
+  "group": "Bosses & projectiles",
+  "frames": "14 x 22x81 (H)"
+ },
+ "torpedo_explode": {
+  "w": 1200,
+  "h": 150,
+  "group": "Bosses & projectiles",
+  "frames": "8 x 150x150 (H)"
+ },
+ "torpedo_launch": {
+  "w": 1600,
+  "h": 100,
+  "group": "Bosses & projectiles",
+  "frames": "8 x 200x100 (H)"
+ },
+ "torpedo_reverse": {
+  "w": 756,
+  "h": 39,
+  "group": "Bosses & projectiles",
+  "frames": "6 x 126x39 (H)"
+ },
+ "torpedo_swim": {
+  "w": 126,
+  "h": 39,
+  "group": "Bosses & projectiles"
+ },
+ "toxic_basic_death": {
+  "w": 960,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "6 x 160x70 (H)"
+ },
+ "toxic_basic_shock": {
+  "w": 160,
+  "h": 70,
+  "group": "Sharks"
+ },
+ "toxic_basic_swim": {
+  "w": 3200,
+  "h": 70,
+  "group": "Sharks",
+  "frames": "20 x 160x70 (H)"
+ },
+ "toxic_glow_death": {
+  "w": 1080,
+  "h": 90,
+  "group": "Sharks",
+  "frames": "6 x 180x90 (H)"
+ },
+ "toxic_glow_swim": {
+  "w": 3600,
+  "h": 90,
+  "group": "Sharks",
+  "frames": "20 x 180x90 (H)"
+ },
+ "tutor_bg": {
+  "w": 640,
+  "h": 480,
+  "group": "Typing tutor"
+ },
+ "upper_hose": {
+  "w": 72,
+  "h": 210,
+  "group": "Diver & effects",
+  "frames": "8 x 9x210 (H)"
+ },
+ "water1": {
+  "w": 690,
+  "h": 480,
+  "group": "Playfield backgrounds"
+ }
+}

@@ -1,0 +1,1120 @@
+{
+ "pack": "remastered",
+ "scale": 2,
+ "imageExt": "webp",
+ "images": {
+  "abyss_boss": [
+   288,
+   337
+  ],
+  "airgauge": [
+   290,
+   29
+  ],
+  "barandlogo": [
+   514,
+   126
+  ],
+  "bonus_creature_death": [
+   800,
+   100
+  ],
+  "bonus_creature_swim": [
+   1600,
+   80
+  ],
+  "boss_galleon": [
+   159,
+   349
+  ],
+  "boss_galleon_death": [
+   159,
+   349
+  ],
+  "boss_mecha": [
+   184,
+   217
+  ],
+  "boss_mecha_death": [
+   230,
+   216
+  ],
+  "boss_mecha_fin": [
+   390,
+   98
+  ],
+  "boss_meter": [
+   380,
+   40
+  ],
+  "boss_meter_fill": [
+   294,
+   20
+  ],
+  "boss_squid": [
+   218,
+   147
+  ],
+  "boss_squid_death": [
+   268,
+   123
+  ],
+  "boss_squid_eye": [
+   60,
+   12
+  ],
+  "boss_squid_fin": [
+   670,
+   47
+  ],
+  "bubble1": [
+   5,
+   5
+  ],
+  "bubble2": [
+   7,
+   7
+  ],
+  "bubble3": [
+   9,
+   9
+  ],
+  "button_abyss_down": [
+   310,
+   101
+  ],
+  "button_abyss_over": [
+   310,
+   101
+  ],
+  "button_adventure_down": [
+   310,
+   101
+  ],
+  "button_adventure_over": [
+   310,
+   101
+  ],
+  "button_hall_down": [
+   204,
+   42
+  ],
+  "button_hall_over": [
+   204,
+   42
+  ],
+  "button_options_down": [
+   204,
+   41
+  ],
+  "button_options_over": [
+   204,
+   41
+  ],
+  "button_quit_down": [
+   98,
+   83
+  ],
+  "button_quit_over": [
+   98,
+   83
+  ],
+  "button_tutor_down": [
+   310,
+   101
+  ],
+  "button_tutor_over": [
+   310,
+   101
+  ],
+  "cannonball": [
+   74,
+   528
+  ],
+  "cannonball_turn": [
+   74,
+   220
+  ],
+  "checked": [
+   48,
+   25
+  ],
+  "clams": [
+   500,
+   200
+  ],
+  "coralshelf": [
+   396,
+   259
+  ],
+  "cursor1": [
+   54,
+   54
+  ],
+  "dbutton": [
+   115,
+   32
+  ],
+  "dbutton_hilight": [
+   115,
+   32
+  ],
+  "dialog": [
+   360,
+   360
+  ],
+  "diver_beaten": [
+   50,
+   84
+  ],
+  "diver_idle": [
+   400,
+   84
+  ],
+  "editbox": [
+   96,
+   32
+  ],
+  "empwave": [
+   209,
+   480
+  ],
+  "favicon": [
+   64,
+   64
+  ],
+  "finger0": [
+   64,
+   60
+  ],
+  "finger0x": [
+   64,
+   60
+  ],
+  "finger1": [
+   75,
+   67
+  ],
+  "finger1x": [
+   75,
+   67
+  ],
+  "finger2": [
+   85,
+   66
+  ],
+  "finger2x": [
+   85,
+   66
+  ],
+  "finger3": [
+   75,
+   94
+  ],
+  "finger3x": [
+   75,
+   94
+  ],
+  "finger4": [
+   52,
+   50
+  ],
+  "finger4x": [
+   52,
+   50
+  ],
+  "finger5": [
+   79,
+   95
+  ],
+  "finger5x": [
+   79,
+   95
+  ],
+  "finger6": [
+   93,
+   70
+  ],
+  "finger6x": [
+   93,
+   70
+  ],
+  "finger7": [
+   83,
+   74
+  ],
+  "finger7x": [
+   83,
+   74
+  ],
+  "finger8": [
+   70,
+   65
+  ],
+  "finger8x": [
+   70,
+   65
+  ],
+  "galleon_rudder": [
+   105,
+   47
+  ],
+  "gameselector": [
+   640,
+   480
+  ],
+  "gem_green": [
+   41,
+   41
+  ],
+  "gem_orange": [
+   41,
+   41
+  ],
+  "gem_purple": [
+   41,
+   41
+  ],
+  "gem_red": [
+   41,
+   41
+  ],
+  "gem_white": [
+   41,
+   41
+  ],
+  "gem_yellow": [
+   41,
+   41
+  ],
+  "glo_0": [
+   25,
+   21
+  ],
+  "glo_1": [
+   28,
+   22
+  ],
+  "glo_2": [
+   26,
+   23
+  ],
+  "glo_3": [
+   24,
+   22
+  ],
+  "glo_4": [
+   25,
+   21
+  ],
+  "glo_5": [
+   25,
+   21
+  ],
+  "glo_6": [
+   25,
+   21
+  ],
+  "glo_7": [
+   22,
+   21
+  ],
+  "glo_8": [
+   24,
+   21
+  ],
+  "glo_9": [
+   24,
+   21
+  ],
+  "glo_a": [
+   29,
+   23
+  ],
+  "glo_apostrophe": [
+   29,
+   22
+  ],
+  "glo_b": [
+   25,
+   22
+  ],
+  "glo_back": [
+   39,
+   21
+  ],
+  "glo_backslash": [
+   27,
+   22
+  ],
+  "glo_c": [
+   28,
+   22
+  ],
+  "glo_caps": [
+   49,
+   22
+  ],
+  "glo_colon": [
+   29,
+   22
+  ],
+  "glo_comma": [
+   27,
+   22
+  ],
+  "glo_d": [
+   26,
+   23
+  ],
+  "glo_e": [
+   24,
+   22
+  ],
+  "glo_enter": [
+   36,
+   22
+  ],
+  "glo_f": [
+   26,
+   23
+  ],
+  "glo_forslash": [
+   29,
+   22
+  ],
+  "glo_g": [
+   25,
+   23
+  ],
+  "glo_h": [
+   25,
+   23
+  ],
+  "glo_hyphen": [
+   27,
+   21
+  ],
+  "glo_i": [
+   24,
+   22
+  ],
+  "glo_j": [
+   26,
+   23
+  ],
+  "glo_k": [
+   26,
+   23
+  ],
+  "glo_l": [
+   28,
+   23
+  ],
+  "glo_lalt": [
+   41,
+   24
+  ],
+  "glo_lbrace": [
+   28,
+   22
+  ],
+  "glo_lctrl": [
+   41,
+   24
+  ],
+  "glo_lshift": [
+   61,
+   22
+  ],
+  "glo_m": [
+   27,
+   22
+  ],
+  "glo_n": [
+   25,
+   22
+  ],
+  "glo_o": [
+   24,
+   22
+  ],
+  "glo_p": [
+   27,
+   22
+  ],
+  "glo_period": [
+   29,
+   22
+  ],
+  "glo_plus": [
+   25,
+   21
+  ],
+  "glo_q": [
+   28,
+   22
+  ],
+  "glo_r": [
+   24,
+   22
+  ],
+  "glo_ralt": [
+   40,
+   24
+  ],
+  "glo_rbrace": [
+   27,
+   22
+  ],
+  "glo_rctrl": [
+   40,
+   24
+  ],
+  "glo_rshift": [
+   50,
+   22
+  ],
+  "glo_s": [
+   29,
+   23
+  ],
+  "glo_space": [
+   217,
+   24
+  ],
+  "glo_t": [
+   24,
+   22
+  ],
+  "glo_tab": [
+   35,
+   22
+  ],
+  "glo_tilde": [
+   29,
+   22
+  ],
+  "glo_u": [
+   24,
+   22
+  ],
+  "glo_v": [
+   28,
+   22
+  ],
+  "glo_w": [
+   28,
+   22
+  ],
+  "glo_x": [
+   28,
+   22
+  ],
+  "glo_y": [
+   24,
+   22
+  ],
+  "glo_z": [
+   28,
+   22
+  ],
+  "glowring": [
+   58,
+   58
+  ],
+  "goldbar": [
+   370,
+   76
+  ],
+  "gumbo_die": [
+   600,
+   60
+  ],
+  "gumbo_shock": [
+   60,
+   60
+  ],
+  "gumbo_swim": [
+   1200,
+   60
+  ],
+  "hands": [
+   443,
+   101
+  ],
+  "high_score_bg": [
+   640,
+   480
+  ],
+  "mapbg": [
+   700,
+   540
+  ],
+  "mapchest_a": [
+   48,
+   35
+  ],
+  "mapchest_a_open": [
+   48,
+   35
+  ],
+  "mapchest_b": [
+   48,
+   35
+  ],
+  "mapchest_b_open": [
+   48,
+   35
+  ],
+  "mapchest_c": [
+   48,
+   35
+  ],
+  "mapchest_c_open": [
+   48,
+   35
+  ],
+  "mapscreen_arch": [
+   79,
+   91
+  ],
+  "mapship": [
+   26,
+   22
+  ],
+  "mapshipcolor": [
+   300,
+   45
+  ],
+  "medal_bronze": [
+   97,
+   133
+  ],
+  "medal_gold": [
+   97,
+   133
+  ],
+  "medal_silver": [
+   97,
+   133
+  ],
+  "mountain1": [
+   640,
+   200
+  ],
+  "mountain2": [
+   640,
+   200
+  ],
+  "mountain3": [
+   640,
+   200
+  ],
+  "oceanfloor": [
+   690,
+   300
+  ],
+  "piranha_basic_death": [
+   600,
+   60
+  ],
+  "piranha_basic_swim": [
+   1200,
+   60
+  ],
+  "piranha_white_death": [
+   600,
+   60
+  ],
+  "piranha_white_swim": [
+   1200,
+   60
+  ],
+  "piranhashock": [
+   60,
+   60
+  ],
+  "point": [
+   10,
+   10
+  ],
+  "point_green": [
+   10,
+   10
+  ],
+  "pointer2": [
+   58,
+   58
+  ],
+  "rotor_torpedo": [
+   154,
+   41
+  ],
+  "rumblecloud": [
+   875,
+   125
+  ],
+  "sand": [
+   690,
+   300
+  ],
+  "secret_crown": [
+   41,
+   41
+  ],
+  "secret_crown_lrg": [
+   81,
+   72
+  ],
+  "secret_figurine": [
+   41,
+   41
+  ],
+  "secret_figurine_lrg": [
+   56,
+   91
+  ],
+  "secret_necklace": [
+   41,
+   41
+  ],
+  "secret_necklace_lrg": [
+   48,
+   86
+  ],
+  "secret_scepter": [
+   41,
+   41
+  ],
+  "secret_scepter_lrg": [
+   85,
+   90
+  ],
+  "shark_basic_death": [
+   960,
+   70
+  ],
+  "shark_basic_swim": [
+   3200,
+   70
+  ],
+  "shark_black_death": [
+   960,
+   70
+  ],
+  "shark_black_shock": [
+   160,
+   70
+  ],
+  "shark_black_swim": [
+   3200,
+   70
+  ],
+  "shark_ghost_death": [
+   960,
+   70
+  ],
+  "shark_ghost_glow_death": [
+   1080,
+   90
+  ],
+  "shark_ghost_glow_swim": [
+   3600,
+   90
+  ],
+  "shark_ghost_swim": [
+   3200,
+   70
+  ],
+  "shark_red_death": [
+   960,
+   70
+  ],
+  "shark_red_shock": [
+   160,
+   70
+  ],
+  "shark_red_swim": [
+   3200,
+   70
+  ],
+  "sharkshock": [
+   160,
+   70
+  ],
+  "shipwreckbonus": [
+   392,
+   39
+  ],
+  "slider": [
+   172,
+   10
+  ],
+  "slideranchor": [
+   20,
+   20
+  ],
+  "smallgoldfish": [
+   400,
+   20
+  ],
+  "sonar_bg": [
+   364,
+   364
+  ],
+  "sonar_sweep2_0": [
+   155,
+   155
+  ],
+  "sonar_sweep2_1": [
+   155,
+   155
+  ],
+  "sonar_sweep2_2": [
+   155,
+   155
+  ],
+  "sonar_sweep2_3": [
+   155,
+   155
+  ],
+  "sonar_sweep2_4": [
+   155,
+   155
+  ],
+  "sonar_sweep_0": [
+   155,
+   155
+  ],
+  "sonar_sweep_1": [
+   155,
+   155
+  ],
+  "sonar_sweep_2": [
+   155,
+   155
+  ],
+  "sonar_sweep_3": [
+   155,
+   155
+  ],
+  "sonar_sweep_4": [
+   155,
+   155
+  ],
+  "sparkle_large": [
+   560,
+   40
+  ],
+  "statusbarX": [
+   640,
+   39
+  ],
+  "statusbarX_options_down": [
+   81,
+   30
+  ],
+  "statusbarX_options_over": [
+   81,
+   30
+  ],
+  "statusbarX_pause_down": [
+   82,
+   30
+  ],
+  "statusbarX_pause_over": [
+   82,
+   30
+  ],
+  "statusbarX_quit_down": [
+   81,
+   30
+  ],
+  "statusbarX_quit_over": [
+   81,
+   30
+  ],
+  "statusbarmeter": [
+   228,
+   22
+  ],
+  "tab_button": [
+   121,
+   37
+  ],
+  "tab_panel": [
+   637,
+   429
+  ],
+  "tab_panel_question": [
+   17,
+   29
+  ],
+  "tab_panel_treasure": [
+   208,
+   344
+  ],
+  "tab_panel_white": [
+   377,
+   316
+  ],
+  "tab_radiobtn_active": [
+   169,
+   36
+  ],
+  "tab_radiobtn_inactive": [
+   169,
+   36
+  ],
+  "tab_top": [
+   162,
+   38
+  ],
+  "tab_top_shadow": [
+   162,
+   38
+  ],
+  "textovers": [
+   400,
+   120
+  ],
+  "title_continue": [
+   235,
+   28
+  ],
+  "title_continue_over": [
+   235,
+   28
+  ],
+  "titlescreen": [
+   640,
+   480
+  ],
+  "topbackground": [
+   640,
+   119
+  ],
+  "topbackground_iceberg": [
+   640,
+   119
+  ],
+  "topbackground_lighthouse": [
+   640,
+   119
+  ],
+  "topbackground_shipwreck": [
+   640,
+   119
+  ],
+  "topbackground_storm": [
+   640,
+   119
+  ],
+  "topbackground_volcano": [
+   640,
+   119
+  ],
+  "torpedo_boss_bobbing": [
+   250,
+   155
+  ],
+  "torpedo_boss_dying": [
+   250,
+   155
+  ],
+  "torpedo_boss_rotor": [
+   308,
+   81
+  ],
+  "torpedo_explode": [
+   1200,
+   150
+  ],
+  "torpedo_launch": [
+   1600,
+   100
+  ],
+  "torpedo_reverse": [
+   756,
+   39
+  ],
+  "torpedo_swim": [
+   126,
+   39
+  ],
+  "toxic_basic_death": [
+   960,
+   70
+  ],
+  "toxic_basic_shock": [
+   160,
+   70
+  ],
+  "toxic_basic_swim": [
+   3200,
+   70
+  ],
+  "toxic_glow_death": [
+   1080,
+   90
+  ],
+  "toxic_glow_swim": [
+   3600,
+   90
+  ],
+  "tutor_bg": [
+   640,
+   480
+  ],
+  "upper_hose": [
+   72,
+   210
+  ],
+  "water1": [
+   690,
+   480
+  ],
+  "12ptfont": [
+   1105,
+   20
+  ],
+  "CourierFinalDraft15Bold": [
+   1582,
+   29
+  ],
+  "GillSansMT10Bold": [
+   1095,
+   18
+  ],
+  "MyriadCondensedWeb12Bold": [
+   1086,
+   22
+  ],
+  "MyriadCondensedWeb14Bold": [
+   1151,
+   24
+  ],
+  "MyriadCondensedWeb15": [
+   1156,
+   26
+  ],
+  "MyriadCondensedWeb28Bold": [
+   1778,
+   46
+  ],
+  "Rockwell13": [
+   1260,
+   22
+  ],
+  "Rockwell13Bold": [
+   1338,
+   22
+  ],
+  "SwissCheesed24": [
+   2025,
+   34
+  ]
+ },
+ "sounds": [
+  "bad",
+  "buttonclick",
+  "divebell1",
+  "diverenters",
+  "eerie1",
+  "eerie3",
+  "emp",
+  "explosion",
+  "extralife",
+  "jellyfish",
+  "piranhadies1",
+  "playerdies",
+  "sharkdies",
+  "sharkhurt",
+  "shipmove",
+  "sonarping1",
+  "tone1",
+  "tone10",
+  "tone11",
+  "tone12",
+  "tone13",
+  "tone2",
+  "tone3",
+  "tone4",
+  "tone5",
+  "tone6",
+  "tone7",
+  "tone8",
+  "tone9",
+  "torpedolaunch",
+  "treasure",
+  "type",
+  "type2",
+  "type3",
+  "underwaterloop",
+  "wave_bonus",
+  "wave_bonus2",
+  "wave_bonus3",
+  "wingem",
+  "wrong"
+ ],
+ "soundExt": "wav",
+ "music": [
+  "music"
+ ],
+ "musicType": "synth",
+ "wordPlates": true,
+ "wordColors": [
+  16777215,
+  16761626
+ ],
+ "wordOffsets": {
+  "shark_basic_swim": -12,
+  "shark_black_swim": -12,
+  "shark_red_swim": -12,
+  "shark_ghost_swim": -12,
+  "toxic_basic_swim": -12
+ },
+ "data": [
+  "12ptfont.txt",
+  "CourierFinalDraft15Bold.txt",
+  "GillSansMT10Bold.txt",
+  "Lesson0.xml",
+  "Lesson1.xml",
+  "Lesson10.xml",
+  "Lesson11.xml",
+  "Lesson12.xml",
+  "Lesson13.xml",
+  "Lesson14.xml",
+  "Lesson15.xml",
+  "Lesson16.xml",
+  "Lesson17.xml",
+  "Lesson18.xml",
+  "Lesson2.xml",
+  "Lesson3.xml",
+  "Lesson4.xml",
+  "Lesson5.xml",
+  "Lesson6.xml",
+  "Lesson7.xml",
+  "Lesson8.xml",
+  "Lesson9.xml",
+  "MyriadCondensedWeb12Bold.txt",
+  "MyriadCondensedWeb14Bold.txt",
+  "MyriadCondensedWeb15.txt",
+  "MyriadCondensedWeb28Bold.txt",
+  "Rockwell13.txt",
+  "Rockwell13Bold.txt",
+  "SwissCheesed24.txt",
+  "abyss.xml",
+  "easy-cfg.xml",
+  "expert-cfg.xml",
+  "gemnames.txt",
+  "hard-cfg.xml",
+  "normal-cfg.xml",
+  "shipnames.txt",
+  "themes.txt",
+  "twords.txt",
+  "waves.txt",
+  "xtreme-cfg.xml"
+ ]
+}

@@ -1,0 +1,38 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Hold Shift with the opposite pinky for capitals:</1>
+	<2>Now add periods, commas and apostrophes.</2>
+	<3>Finish strong with exclamation marks!</3>
+</HEADINGS>
+
+<DESCRIPTION>This lesson teaches capital letters and basic punctuation. Press Shift with the pinky of the hand that is NOT typing the letter, then let go before the next key.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>Ann Bob Cal Dee Eli Fay Gus Hal Ida Jo</TEXT>
+<TEXT>Kim Lou May Ned Ora Pip Quin Rae Sam Ty</TEXT>
+<TEXT>Una Val Wes Xia Yuri Zoe Atlantic Pacific</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>Captain Reed's crew sailed at dawn.</TEXT>
+<TEXT>They passed Coral Bay, Gull Rock, and Kelp</TEXT>
+<TEXT>Point. It's a long trip, but they're brave.</TEXT>
+<TEXT>The ship's cook made fish, rice, and tea.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>Ahoy! Land ho! Drop the anchor!</TEXT>
+<TEXT>Watch out! A shark! Swim, swim, swim!</TEXT>
+<TEXT>We found it! The treasure is ours, mates!</TEXT>
+</TASK>
+
+</LESSON>

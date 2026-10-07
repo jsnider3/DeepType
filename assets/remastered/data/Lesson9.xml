@@ -1,0 +1,40 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Speed check! Type these lines as fast as you can:</1>
+	<2>Keep the pace up. Don't stop to look down.</2>
+	<3>Last stretch. Stay smooth and steady!</3>
+</HEADINGS>
+
+<DESCRIPTION>To pass this lesson you need 25 adjusted words per minute. Adjusted WPM subtracts your errors from your raw speed, so accuracy counts as much as speed.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>25</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>the sun is up and the sea is calm today</TEXT>
+<TEXT>we pack our gear and row out to the reef</TEXT>
+<TEXT>the water is so clear we can see the sand</TEXT>
+<TEXT>a school of fish darts past the small boat</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>dive down slowly and keep an eye on the air</TEXT>
+<TEXT>a crab hides under a rock near the anchor</TEXT>
+<TEXT>the old wreck is covered in pink coral</TEXT>
+<TEXT>we swim through a hole in the broken hull</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>inside the cabin we find a heavy chest</TEXT>
+<TEXT>it is full of gold coins and silver cups</TEXT>
+<TEXT>we tie a rope to it and kick for the top</TEXT>
+<TEXT>back on deck we cheer and count our loot</TEXT>
+</TASK>
+
+</LESSON>

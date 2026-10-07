@@ -1,0 +1,38 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Accuracy test! Type carefully, no more than 5 errors:</1>
+	<2>Steady now. Precision beats speed here.</2>
+	<3>Final lines. Breathe, then type each key once.</3>
+</HEADINGS>
+
+<DESCRIPTION>In this lesson you may make no more than 5 errors. Slow down, watch every letter, and get it right the first time.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>5</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>The lighthouse keeper rang the bell twice.</TEXT>
+<TEXT>A thick fog drifted across the harbor.</TEXT>
+<TEXT>Fishermen tied their boats to the docks.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>Beneath the pier, an octopus changed color</TEXT>
+<TEXT>from rusty red to pale sandy brown.</TEXT>
+<TEXT>It slipped into a jar and closed the lid.</TEXT>
+<TEXT>Clever creatures, octopuses!</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>Mind the spelling: anemone, barnacle,</TEXT>
+<TEXT>cuttlefish, nautilus, plankton, sponge,</TEXT>
+<TEXT>seahorse, starfish, urchin, and whelk.</TEXT>
+</TASK>
+
+</LESSON>

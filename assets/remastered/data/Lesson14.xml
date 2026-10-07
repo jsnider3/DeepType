@@ -1,0 +1,81 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Five minutes on the clock! Type steadily:</1>
+	<2>Keep going. Find a comfortable rhythm.</2>
+	<3>You're doing great. Keep your eyes forward.</3>
+	<4>More to go! Relax your shoulders.</4>
+	<5>Push on. The finish line is not far.</5>
+</HEADINGS>
+
+<DESCRIPTION>This is an endurance lesson. The timer runs for five minutes, so pace yourself and keep a steady rhythm until the clock runs out.</DESCRIPTION>
+
+<LessonTime>300</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>Long ago, a young sailor named Mira found</TEXT>
+<TEXT>an old map tucked inside a bottle that had</TEXT>
+<TEXT>washed up on the beach. Its ink was faded,</TEXT>
+<TEXT>but she could still make out a reef, a bay</TEXT>
+<TEXT>and a big red cross near a sunken tower.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>She traded her fishing nets for a used</TEXT>
+<TEXT>diving suit, a brass helmet and a long air</TEXT>
+<TEXT>hose. Her friend Tomas, who owned a small</TEXT>
+<TEXT>boat, agreed to help in return for a share</TEXT>
+<TEXT>of whatever treasure they might discover.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>They set out at sunrise. The water was calm</TEXT>
+<TEXT>and blue, and dolphins raced along beside</TEXT>
+<TEXT>the bow. By noon they reached the reef from</TEXT>
+<TEXT>the map, a ring of coral that glowed gold</TEXT>
+<TEXT>and green just below the rippling surface.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>Mira climbed down the ladder and sank into</TEXT>
+<TEXT>the cool water. Fish of every color swirled</TEXT>
+<TEXT>around her. Far below she spotted the old</TEXT>
+<TEXT>tower, leaning in the sand and wrapped in</TEXT>
+<TEXT>long ribbons of swaying green seaweed.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>5</HEADING>
+<TEXT>Then a shadow passed overhead. A grey shark</TEXT>
+<TEXT>circled slowly, watching her with flat dark</TEXT>
+<TEXT>eyes. Mira stayed perfectly still, holding</TEXT>
+<TEXT>her breath, until the shark lost interest</TEXT>
+<TEXT>and drifted away toward deeper water.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>Inside the tower she found a rusty iron box</TEXT>
+<TEXT>half buried in the sand. She tugged on its</TEXT>
+<TEXT>handle and it came free with a puff of silt.</TEXT>
+<TEXT>She tied the box to her rope and gave three</TEXT>
+<TEXT>sharp pulls, the signal to bring her up.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>Back on deck, Tomas pried open the lid. It</TEXT>
+<TEXT>held no gold at all, only a second map and</TEXT>
+<TEXT>a note that read: the real prize lies much</TEXT>
+<TEXT>deeper. Mira laughed, wrung out her hair and</TEXT>
+<TEXT>said they would set sail again tomorrow.</TEXT>
+</TASK>
+
+</LESSON>

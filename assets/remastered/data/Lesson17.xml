@@ -1,0 +1,45 @@
+<LESSON>
+
+<HEADINGS>
+	<1>Tricky letter pairs ahead! Aim for 30 WPM:</1>
+	<2>Now some awkward reaches across the keyboard.</2>
+	<3>Put the tricky pairs into real words.</3>
+	<4>Finish with whole sentences.</4>
+</HEADINGS>
+
+<DESCRIPTION>Some letter pairs trip up even good typists. This lesson drills the awkward ones, and you need 30 adjusted words per minute to pass.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>30</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>ce ec cr rc br rb nu un my ym mn nm ce cr</TEXT>
+<TEXT>ol lo ws sw ed de ki ik ft tf gr rg ju uj</TEXT>
+<TEXT>brr cec crc mnm umu lol sws ded kik ftf</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>ze ez xc cx qa aq pl lp ny yn hy yh za az</TEXT>
+<TEXT>minimum numb hymn column crumb mynah</TEXT>
+<TEXT>swollen loll swap sword lower bowl dewy</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>brace cruise crumble numerous column vex</TEXT>
+<TEXT>rhythm myth lymph sphinx crypt nymph gym</TEXT>
+<TEXT>exceed recede decree secret receive deck</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>4</HEADING>
+<TEXT>My numb crew swam over the broken column.</TEXT>
+<TEXT>A secret crypt lies under the brown reef.</TEXT>
+<TEXT>Cruising crabs crept by the crumbling bow.</TEXT>
+</TASK>
+
+</LESSON>

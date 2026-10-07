@@ -1,0 +1,39 @@
+<LESSON>
+
+<HEADINGS>
+	<1>A pangram uses every letter of the alphabet. Try one:</1>
+	<2>Good! Here are some more pangrams.</2>
+	<3>Last set. Watch for the rare letters!</3>
+</HEADINGS>
+
+<DESCRIPTION>Pangrams are sentences that use every letter of the alphabet at least once, so they are great practice for every finger.</DESCRIPTION>
+
+<LessonTime>-1</LessonTime>
+<MaxErrors>-1</MaxErrors>
+<MinWPM>-1</MinWPM>
+<MinAccuracy>-1</MinAccuracy>
+
+<TASK>
+<HEADING>1</HEADING>
+<TEXT>The quick brown fox jumps over a lazy dog.</TEXT>
+<TEXT>Pack my box with five dozen liquor jugs.</TEXT>
+<TEXT>Jackdaws love my big sphinx of quartz.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>2</HEADING>
+<TEXT>Big fjords vex quick waltz nymph.</TEXT>
+<TEXT>Five jumbo squid gawk at hazy pixel crab.</TEXT>
+<TEXT>Lazy walrus fixed my quick jet-black buoy.</TEXT>
+<TEXT>Jovial divers quickly grab six frozen kelp.</TEXT>
+</TASK>
+
+<TASK>
+<HEADING>3</HEADING>
+<TEXT>Quiet gray sharks jump over five dozen wax</TEXT>
+<TEXT>blocks. Zippy jellyfish quiz the brave ox.</TEXT>
+<TEXT>Wild kelp, frozen jam, quick vaults of gray</TEXT>
+<TEXT>bricks: each a puzzle to explore by night.</TEXT>
+</TASK>
+
+</LESSON>
